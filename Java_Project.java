@@ -2,15 +2,7 @@
  *  JavaCourseDemo.java
  *  CHAPTER 2 : Inheritance, Abstraction, Polymorphism and Exception Handling
  *  CHAPTER 3 : Stacks in Java (java.util.Stack, ArrayStack, LinkedStack)
- *
- *  ALL code examples of both chapters in ONE file, one topic per banner comment.
- *  Every "WILL IT COMPILE?" / vote snippet is kept as a COMMENT so the file always builds.
- *
- *  RUN (single-file mode, JDK 11+):   java JavaCourseDemo.java
- *  RUN (classic):                     javac JavaCourseDemo.java && java JavaCourseDemo
- *
- *  Author : <Your Name> — <Your ID> — <Course / Section>
- *  Ref    : Java Software Structures, 4th Edition, Lewis & Chase (Chapter 3)
+ *  Author : <Name: Naima Hassan Dirie> — <ID: C6240147> — <Class: CNS242>
  * ===================================================================================== */
 
 import java.io.File;
