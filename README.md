@@ -1,2 +1,7 @@
 # java-project
-JavaCourseDemo
+JavaCourseDemo/
+│
+├── JavaCourseDemo.java
+├── README.md
+├── output.txt
+└── .gitignore
